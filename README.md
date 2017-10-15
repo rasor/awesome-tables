@@ -1,7 +1,8 @@
 # awesome-config
 
-Awesome list of CLI tools often having config files
+Awesome lists
 
 * [Awesome CLI - JS on Windows](awesome-cli-js.md)
+* [Awesome Cloud Feature Compare](awesome-cloud-feature-compare.md)
 
 The End

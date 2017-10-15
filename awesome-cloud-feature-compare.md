@@ -1,6 +1,7 @@
 ## Awesome Cloud Feature Compare
 
-||AWS|Google|Azure|
+|CLI|[aws](http://docs.aws.amazon.com/cli/latest/reference/)|[gcloud](https://cloud.google.com/shell/docs/quickstart)|[az](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)|
+|Web|AWS|Google[Google](https://console.cloud.google.com/projectselector/home/dashboard)|[Azure](https://portal.azure.com/)|
 |---|---|---|---|
 |Compute|Amazon EC2|Google Compute Engine|Azure Virtual Machines|
 |Compute|Amazon EC2 Container Service|Google Container Engine|Azure Container Service|

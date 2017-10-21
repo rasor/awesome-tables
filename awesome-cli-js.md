@@ -1,16 +1,22 @@
 ## Awesome CLI - JS on Windows
 
+### SaaS
+
+|CLI|Cmd|Category|
+|---|---|---|
+|Firebase|[firebase](https://firebase.google.com/docs/cli/)|DB|
+
 ### Platform, CI/CD
 
-|CLI|Cmd|Config|Environment|Category|
-|---|---|---|---|---|
-|Heroku|[heroku](https://devcenter.heroku.com/articles/heroku-cli#getting-started)|||Cloud|
-|AWS|[aws](http://docs.aws.amazon.com/cli/latest/reference/)|||Cloud|
-|Google Cloud|[gcloud version](https://cloud.google.com/shell/docs/quickstart)|||Cloud|
-|Azure|[az](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)|||Cloud|
-|Cordova|[cordova -v](https://cordova.apache.org/docs/en/latest/reference/cordova-cli/#cordova-build-command)|||Mobile|
-|GIT|[git](https://git-scm.com/docs)|||VCS|
-|SSH|[ssh](https://www.ssh.com/ssh/command)|||Remote Control|
+|CLI|Cmd|Category|
+|---|---|---|
+|Heroku|[heroku](https://devcenter.heroku.com/articles/heroku-cli#getting-started)|Cloud|
+|AWS|[aws](http://docs.aws.amazon.com/cli/latest/reference/)|Cloud|
+|Google Cloud|[gcloud version](https://cloud.google.com/shell/docs/quickstart)|Cloud|
+|Azure|[az](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)|Cloud|
+|Cordova|[cordova -v](https://cordova.apache.org/docs/en/latest/reference/cordova-cli/#cordova-build-command)|Mobile|
+|GIT|[git](https://git-scm.com/docs)|VCS|
+|SSH|[ssh](https://www.ssh.com/ssh/command)|Remote Control|
 
 ### JavaScript
 

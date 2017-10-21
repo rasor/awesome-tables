@@ -25,7 +25,7 @@
 |[@angular/core](https://angular.io/api/core/)|[@Inject({})](https://angular.io/api/core/Inject)<br/>on parameters|`token: any`|
 |[@angular/core](https://angular.io/api/core/)|[@Injectable()](https://angular.io/api/core/Injectable)||
 |[@angular/core](https://angular.io/api/core/)|[@Input({})](https://angular.io/api/core/Input)|`bindingPropertyName?: string`|
-|[@angular/core](https://angular.io/api/core/)|[@NgModule({})](https://angular.io/api/core/NgModule)|`providers?: Provider[]`<br/><code>declarations?: Array&lt;Type<any>&brvbar;any[]><br/>imports?: Array&lt;Type&lt;any>&brvbar;ModuleWithProviders&brvbar;any[]><br/>exports?: Array&lt;Type&lt;any>&brvbar;any[]><br/>entryComponents?: Array&lt;Type&lt;any>&brvbar;any[]><br/>bootstrap?: Array&lt;Type&lt;any>|any[]></code><br/>`schemas?: Array<SchemaMetadata|any[]>`<br/>`id?: string`|
+|[@angular/core](https://angular.io/api/core/)|[@NgModule({})](https://angular.io/api/core/NgModule)|`providers?: Provider[]`<br/><code>declarations?: Array&lt;Type<any>&brvbar;any[]&gt;<br/>imports?:Array&lt;Type&lt;any>&brvbar;ModuleWithProviders&brvbar;any[]><br/>exports?: Array&lt;Type&lt;any>&brvbar;any[]&gt;<br/>entryComponents?: Array&lt;Type&lt;any>&brvbar;any[]&gt;<br/>bootstrap?: Array&lt;Type&lt;any>|any[]></code><br/>`schemas?: Array<SchemaMetadata|any[]>`<br/>`id?: string`|
 |[@angular/core](https://angular.io/api/core/)|[@Optional()](https://angular.io/api/core/Optional)<br/>on parameters||
 |[@angular/core](https://angular.io/api/core/)|[@Output({})](https://angular.io/api/core/Output)|`bindingPropertyName?: string`|
 |[@angular/core](https://angular.io/api/core/)|[@Pipe({})](https://angular.io/api/core/Pipe)|`name: string`<br/>`pure?: boolean`|

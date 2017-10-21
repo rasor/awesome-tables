@@ -6,7 +6,7 @@
 
 |Type|Name|
 |---|---|
-|@|Decorator|
+|[@](#-decorators)|Decorator|
 |C|Class|
 |D|Directive|
 |E|Enum|

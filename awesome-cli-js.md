@@ -8,11 +8,11 @@
 
 ### Platform, CI/CD
 
-|CLI|Cmd|Category|
-|---|---|---|
+|CLI|Cmd|Category|SDK|
+|---|---|---|---|
 |Heroku|[heroku](https://devcenter.heroku.com/articles/heroku-cli#getting-started)|Cloud|
 |AWS|[aws](http://docs.aws.amazon.com/cli/latest/reference/)|Cloud|
-|Google Cloud|[gcloud version](https://cloud.google.com/shell/docs/quickstart)|Cloud|
+|Google Cloud|[gcloud version](https://cloud.google.com/shell/docs/quickstart)|Cloud|[Tools](https://cloud.google.com/products/tools/), [SDK](https://cloud.google.com/sdk/docs/quickstart-windows)|
 |Azure|[az](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)|Cloud|
 |Cordova|[cordova -v](https://cordova.apache.org/docs/en/latest/reference/cordova-cli/#cordova-build-command)|Mobile|
 |GIT|[git](https://git-scm.com/docs)|VCS|

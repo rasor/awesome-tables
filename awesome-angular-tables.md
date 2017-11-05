@@ -6,18 +6,26 @@
 |---|---|---|---|
 |ng -v||tsc -v|
 |1.2.* |>=2.3.1 <3.0.0|>=2.0.2 <2.3.0|
-|1.4.* |>=4.0.0 <5.0.0|>=2.1.0 <2.4.0|currently latest in that range: 4.4.6 and 2.3.4|
-|1.5.* |>=5.0.0 <6.0.0|>=2.4.2 <2.5.0|
+|1.4.* |>=4.0.0 <5.0.0|>=2.1.0 <2.4.0|cli 1.4.9 produces "compiler-cli": "4.2.4", "typescript": "2.3.3"|
+|1.5.* |>=5.0.0 <6.0.0|>=2.4.2 <2.5.0|cli 1.5.0 produces "compiler-cli": "5.0.0", "typescript": "2.4.2"|
 
 #### Usage
+
+Get dependencies from an Angular version that differs from you current CLI: 
+
+```bash
+# use non-global cli
+npm install @angular/cli@1.4.9
+ng new myNg424project
+```
 
 package.json
 
 ```yaml
   "devDependencies": {
-    "@angular/cli": "1.4.8",
-    "@angular/compiler-cli": "4.4.6",
-    "typescript": "2.3.4",
+    "@angular/cli": "1.4.9",
+    "@angular/compiler-cli": "4.2.4",
+    "typescript": "2.3.3",
 ```
 
 * [Source - see versionCombos](https://github.com/angular/angular-cli/blob/master/packages/%40angular/cli/upgrade/version.ts) 

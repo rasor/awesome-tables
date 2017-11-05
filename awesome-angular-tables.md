@@ -2,11 +2,11 @@
 
 ### Compilers
 
-|[@angular](https://github.com/angular/angular/releases)/compiler-cli|[typescript](https://github.com/Microsoft/TypeScript/releases)|Comments|
-|---|---|---|
-|>=2.3.1 <3.0.0|>=2.0.2 <2.3.0|
-|>=4.0.0 <5.0.0|>=2.1.0 <2.4.0| currently latest in that range: 4.4.6 and 2.3.4|
-|>=5.0.0 <6.0.0|>=2.4.2 <2.5.0|
+|[angular-cli](https://github.com/angular/angular-cli/releases)|[@angular](https://github.com/angular/angular/releases)/compiler-cli|[typescript](https://github.com/Microsoft/TypeScript/releases)|Comments|
+|---|---|---|---|
+|1.2.* |>=2.3.1 <3.0.0|>=2.0.2 <2.3.0|
+|1.4.* |>=4.0.0 <5.0.0|>=2.1.0 <2.4.0| currently latest in that range: 4.4.6 and 2.3.4|
+|1.5.* |>=5.0.0 <6.0.0|>=2.4.2 <2.5.0|
 
 #### Usage
 
@@ -14,11 +14,12 @@ package.json
 
 ```yaml
   "devDependencies": {
+    "@angular/cli": "1.4.8",
     "@angular/compiler-cli": "4.4.6",
     "typescript": "2.3.4",
 ```
 
-*  [Source - see versionCombos](https://github.com/angular/angular-cli/blob/master/packages/%40angular/cli/upgrade/version.ts) 
+* [Source - see versionCombos](https://github.com/angular/angular-cli/blob/master/packages/%40angular/cli/upgrade/version.ts) 
 
 ### APIs
 

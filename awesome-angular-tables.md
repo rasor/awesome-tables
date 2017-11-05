@@ -1,5 +1,25 @@
 ## Awesome Angular Tables
 
+### Compilers
+
+|@angular/compiler-cli|typescript|
+|---|---|
+|>=2.3.1 <3.0.0|>=2.0.2 <2.3.0|
+|>=4.0.0 <5.0.0|>=2.1.0 <2.4.0| - currently latest in that range: 4.4.6 and 2.3.4
+|>=5.0.0 <6.0.0|>=2.4.2 <2.5.0|
+
+#### Usage
+
+package.json
+
+```yaml
+  "devDependencies": {
+    "@angular/compiler-cli": "4.4.6",
+    "typescript": "2.3.4",
+```
+
+*  [Source - see versionCombos](https://github.com/angular/angular-cli/blob/master/packages/%40angular/cli/upgrade/version.ts) 
+
 ### APIs
 
 * [Angular](https://angular.io/api/)

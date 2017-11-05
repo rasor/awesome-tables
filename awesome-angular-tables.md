@@ -2,10 +2,10 @@
 
 ### Compilers
 
-|@angular/compiler-cli|typescript|
-|---|---|
+|[@angular](https://github.com/angular/angular/releases)/compiler-cli|[typescript](https://github.com/Microsoft/TypeScript/releases)|Comments|
+|---|---|---|
 |>=2.3.1 <3.0.0|>=2.0.2 <2.3.0|
-|>=4.0.0 <5.0.0|>=2.1.0 <2.4.0| - currently latest in that range: 4.4.6 and 2.3.4
+|>=4.0.0 <5.0.0|>=2.1.0 <2.4.0| currently latest in that range: 4.4.6 and 2.3.4|
 |>=5.0.0 <6.0.0|>=2.4.2 <2.5.0|
 
 #### Usage

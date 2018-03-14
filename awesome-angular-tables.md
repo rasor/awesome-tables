@@ -17,8 +17,8 @@ Get dependencies from an Angular version that differs from you current CLI:
 
 ```bash
 # use non-global cli
-npm install @angular/cli@1.4.9
-ng new myNg424project
+npm install @angular/cli@1.7.3
+ng new myNg520project
 ```
 
 package.json

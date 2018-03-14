@@ -6,8 +6,10 @@
 |---|---|---|---|
 |ng -v||tsc -v|
 |1.2.* |>=2.3.1 <3.0.0|>=2.0.2 <2.3.0|
-|1.4.* |>=4.0.0 <5.0.0|>=2.1.0 <2.4.0|cli 1.4.9 produces "compiler-cli": "4.2.4", "typescript": "2.3.3"|
-|1.5.* |>=5.0.0 <6.0.0|>=2.4.2 <2.5.0|cli 1.5.0 produces "compiler-cli": "5.0.0", "typescript": "2.4.2"|
+|1.4.* |>=4.0.0 <5.0.0|>=2.1.0 <2.4.0|cli 1.4.9 produces "core": "4.2.4", "typescript": "2.3.3"|
+|1.5.* |>=5.0.0 <5.1.0|>=2.4.2 <2.5.0|cli 1.5.0 produces "core": "5.0.0", "typescript": "2.4.2"|
+|1.6.* |>=5.1.0 <5.2.0|>=2.4.2 <2.6.0|cli 1.6.3 produces "core": "5.1.0", "typescript": "2.4.2"|
+|1.7.* |>=5.2.0 <6.0.0|>=2.4.2 <2.7.0|cli 1.7.3 produces "core": "5.2.0", "typescript": "2.5.3"|
 
 #### Usage
 
@@ -22,13 +24,17 @@ ng new myNg424project
 package.json
 
 ```yaml
+  "dependencies": {
+    "@angular/core": "^5.2.0",
+    ...
   "devDependencies": {
-    "@angular/cli": "1.4.9",
-    "@angular/compiler-cli": "4.2.4",
-    "typescript": "2.3.3",
+    "@angular/cli": "~1.7.3",
+    "@angular/compiler-cli": "^5.2.0",
+    "typescript": "~2.5.3",
 ```
 
 * [Source - see versionCombos](https://github.com/angular/angular-cli/blob/master/packages/%40angular/cli/upgrade/version.ts) 
+* [Version comparer](https://github.com/cexbrayat/angular-cli-diff/compare/1.6.3...1.7.3)
 
 ### APIs
 

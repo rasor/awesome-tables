@@ -2,7 +2,7 @@
 
 ### Compilers
 
-|[node](https://nodejs.org/en/download/releases)|[@angular/cli](https://github.com/angular/angular-cli/releases)|[@angular](https://github.com/angular/angular/releases)/compiler-cli|[typescript](https://github.com/Microsoft/TypeScript/releases)|Comments|
+|[@types/node](https://nodejs.org/en/download/releases)|[@angular/cli](https://github.com/angular/angular-cli/releases)|[@angular](https://github.com/angular/angular/releases)/compiler-cli|[typescript](https://github.com/Microsoft/TypeScript/releases)|Comments|
 |---|---|---|---|---|
 |node -v|ng -v||tsc -v|
 ||1.2.* |>=2.3.1 <3.0.0|>=2.0.2 <2.3.0|
@@ -10,13 +10,17 @@
 |6.9+|1.5.* |>=5.0.0 <5.1.0|>=2.4.2 <2.5.0|cli 1.5.0 produces "core": "5.0.0", "typescript": "2.4.2"|
 |6.9+|1.6.* |>=5.1.0 <5.2.0|>=2.4.2 <2.6.0|cli 1.6.3 produces "core": "5.1.0", "typescript": "2.4.2"|
 |6.9+|1.7.* |>=5.2.0 <6.0.0|>=2.4.2 <2.7.0|cli 1.7.3 produces "core": "5.2.0", "typescript": "2.5.3"|
-|8.9+| |>=6.0.0 <7.0.0|
+|8.9+|6.0.* |>=6.0.0 <7.0.0|>=2.7.0 <2.8.0|cli 6.0.0 produces "core": "6.0.0", "typescript": "2.7.2"|
+|x.x+| |>=7.0.0 <8.0.0|
 
 #### Usage
 
 Get dependencies from an Angular version that differs from you current CLI: 
 
 ```bash
+# switch node version
+nvm list
+nvm use 6.9.0
 # use non-global cli
 npm install @angular/cli@1.7.3
 ng new myNg520project
@@ -31,11 +35,13 @@ package.json
   "devDependencies": {
     "@angular/cli": "~1.7.3",
     "@angular/compiler-cli": "^5.2.0",
+    "@types/node": "~6.0.60",
     "typescript": "~2.5.3",
 ```
 
-* [Source - see versionCombos](https://github.com/angular/angular-cli/blob/master/packages/%40angular/cli/upgrade/version.ts) 
-* [Version comparer](https://github.com/cexbrayat/angular-cli-diff/compare/1.6.3...1.7.3)
+* [angular-cli dependency on typescript](https://github.com/angular/angular-cli/blob/master/packages/%40angular/cli/upgrade/version.ts) - scroll down to versionCombos
+* [Version comparer (ng5 vs ng6)](https://github.com/cexbrayat/angular-cli-diff/compare/1.7.4...6.0.0) - scroll down to package.json
+* [Upgrade to ng6](https://stackoverflow.com/questions/48970553/want-to-upgrade-project-from-angular-v5-to-angular-v6/49474334#49474334)
 
 ### APIs
 

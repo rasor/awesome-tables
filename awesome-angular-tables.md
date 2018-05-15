@@ -5,7 +5,7 @@
 Using [NVM for Windows](https://rasor.github.io/using-nvm-for-windows-and-yarn.html) I try to keep sets of CLIs together, so I with NVM can change back in time, when I need to work on old projects.  
 So this list below mirrors some version I have installed on my PC. You can use it for inspiration.  
 
-|[@types/node (npm)](https://nodejs.org/en/download/releases)[x.x.0]|[@angular/cli](https://github.com/angular/angular-cli/releases) ([@angular](https://github.com/angular/angular/releases))[x.0.0]|[typescript](https://github.com/Microsoft/TypeScript/releases)|ionic cli ([ionic](https://www.npmjs.com/package/ionic-angular))|cordova|[@vue/cli](https://github.com/vuejs/vue-cli/tags)[x.x.0]|Comments|
+|[@types/node (npm)](https://nodejs.org/en/download/releases)[x.x.0]|[@angular/cli](https://github.com/angular/angular-cli/releases) ([@angular](https://github.com/angular/angular/releases))[x.0.0]|[typescript](https://github.com/Microsoft/TypeScript/releases)|ionic cli ([ionic](https://www.npmjs.com/package/ionic-angular))|cordova|[vue-cli](https://github.com/vuejs/vue-cli/tags)[x.x.0]|Comments|
 |---|---|---|---|---|---|---|
 |**node -v (npm -v)**|**ng -v**|**tsc -v**|**ionic -v**|**cordova -v**|**[vue -v](https://github.com/vuejs/vue-cli/blob/dev/docs/cli.md)**||
 |6.9.0 Boron (3.10.8)[2016.10]|1.4.9 (4.2.4)[2017.03]|2.3.3||||

@@ -7,9 +7,9 @@ So this list below mirrors some version I have installed on my PC. You can use i
 
 |[@types/node (npm)](https://nodejs.org/en/download/releases)|[@angular/cli](https://github.com/angular/angular-cli/releases) ([@angular](https://github.com/angular/angular/releases))|[typescript](https://github.com/Microsoft/TypeScript/releases)|ionic cli ([ionic](https://www.npmjs.com/package/ionic-angular))|cordova |Comments|
 |---|---|---|---|---|---|
-|node -v (npm -v)|ng -v|tsc -v|ionic -v|cordova -v)|
+|node -v (npm -v)|ng -v|tsc -v|ionic -v|cordova -v|
 |6.9.0 (3.10.8)|1.4.9 (4.2.4)|2.3.3||||
-|7.6.0 (4.1.2)|1.6.3 (5.1.0)|2.4.2|3.2.0 |(8.0.0)|v.7.6.0 on windows works with sass transpiler|
+|7.6.0 (4.1.2)|1.6.3 (5.1.0)|2.4.2|3.2.0 |8.0.0|v.7.6.0 on windows works with sass transpiler|
 |8.11.1 (5.6.0)|1.7.3 (5.2.0)|2.5.3|(3.9.2)|||
 |10.1.0 (5.6.0)|6.0.0 (6.0.0)|2.7.2|(4.0.0)|||
 

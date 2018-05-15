@@ -1,6 +1,19 @@
 ## Awesome Angular Tables
 
-### Compilers
+### Javascript CLIs
+
+Using [NVM for Windows](https://rasor.github.io/using-nvm-for-windows-and-yarn.html) I try to keep sets of CLIs together, so I with NVM can change back in time, when I need to work on old projects.  
+So this list below mirrors some version I have installed on my PC. You can use it for inspiration.  
+
+|[@types/node (npm)](https://nodejs.org/en/download/releases)|[@angular/cli](https://github.com/angular/angular-cli/releases) ([@angular](https://github.com/angular/angular/releases)|[typescript](https://github.com/Microsoft/TypeScript/releases)|ionic (cordova) |Comments|
+|---|---|---|---|---|
+|node -v (npm -v)|ng -v|tsc -v|ionic -v (cordova -v)||
+|6.9.0 (3.10.8)|1.4.9 (4.2.4)|2.3.3|||
+|7.6.0 (4.1.2)|1.6.3 (5.1.0)|2.4.2|3.2.0 (8.0.0)|v.7.6.0 on windows works with sass transpiler|
+|8.11.1 (5.6.0)|1.7.3 (5.2.0)|2.5.3|3.9.2||
+|10.1.0 (5.6.0)|6.0.0 (6.0.0)|2.7.2|4.0.0||
+
+### Compiler ranges
 
 |[@types/node](https://nodejs.org/en/download/releases)|[@angular/cli](https://github.com/angular/angular-cli/releases)|[@angular](https://github.com/angular/angular/releases)/compiler-cli|[typescript](https://github.com/Microsoft/TypeScript/releases)|Comments|
 |---|---|---|---|---|

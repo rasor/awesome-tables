@@ -51,10 +51,10 @@
 |Grunt|[grunt](https://gruntjs.com/using-the-cli)|[Gruntfile.js](https://gruntjs.com/sample-gruntfile)||Builder|
 |Bower|[Bower](https://bower.io/#getting-started)|||Package Mgr|
 
-#### NVM sets of tools
+#### [NVM](https://rasor.github.io/using-nvm-for-windows-and-yarn.html) sets of tools - avoiding [version conficts](https://github.com/rasor/awesome-tables/blob/master/awesome-angular-tables.md#compiler-ranges)
 
-Using [NVM for Windows](https://rasor.github.io/using-nvm-for-windows-and-yarn.html) I try to keep sets of CLIs together, so I with NVM can change back in time, when I need to work on old projects.  
-So this list below mirrors some version I have installed on my PC. You can use it for inspiration.  
+With NVM you can change back in time, when you need to work on old projects.  
+This list below mirrors some version I have globally installed (npm install -g) on my PC. You can use it for inspiration.  
 
 |[@types/node (npm)](https://nodejs.org/en/download/releases) [x.x.0]|[@angular/cli](https://github.com/angular/angular-cli/releases)  ([@angular](https://github.com/angular/angular/releases)) [x.0.0]|[typescript](https://github.com/Microsoft/TypeScript/releases)|[ionic cli](https://www.npmjs.com/package/ionic) ([ionic](https://www.npmjs.com/package/ionic-angular))|[cordova](https://www.npmjs.com/package/cordova)|[vue-cli](https://github.com/vuejs/vue-cli/tags) ([vue](https://github.com/vuejs/vue/tags)) [x.x.0]|Comments|
 |---|---|---|---|---|---|---|

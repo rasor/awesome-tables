@@ -53,8 +53,8 @@
 
 #### [NVM](https://rasor.github.io/using-nvm-for-windows-and-yarn.html) sets of tools - avoiding [version conficts](https://github.com/rasor/awesome-tables/blob/master/awesome-angular-tables.md#compiler-ranges)
 
-With NVM you can change back in time, when you need to work on old projects.  
-This list below mirrors some version I have globally installed (npm install -g) on my PC. You can use it for inspiration.  
+With NVM you can change back in time (e.g. nvm use 6.9.0), when you need to work on old projects.  
+This list below mirrors some versions I have globally installed (e.g. npm install -g ionic) on my PC. You can use it for inspiration.  
 
 |[@types/node (npm)](https://nodejs.org/en/download/releases) [x.x.0]|[@angular/cli](https://github.com/angular/angular-cli/releases)  ([@angular](https://github.com/angular/angular/releases)) [x.0.0]|[typescript](https://github.com/Microsoft/TypeScript/releases)|[ionic cli](https://www.npmjs.com/package/ionic) ([ionic](https://www.npmjs.com/package/ionic-angular))|[cordova](https://www.npmjs.com/package/cordova)|[vue-cli](https://github.com/vuejs/vue-cli/tags) ([vue](https://github.com/vuejs/vue/tags)) [x.x.0]|Comments|
 |---|---|---|---|---|---|---|

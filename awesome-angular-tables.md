@@ -13,6 +13,14 @@ So this list below mirrors some version I have installed on my PC. You can use i
 |8.11.1 Carbon (5.6.0) [2017.11]|1.7.3 (5.2.0)|2.5.3|(3.9.2)||2.9.3 (2.5.16) [2018.02]||
 |10.1.0 (5.6.0) [2018.05]|6.0.0 (6.0.0) [2018.05]|2.7.2|(4.0.0)||3.0.0||
 
+#### More NVM managed CLIs
+
+* [lerna](https://lernajs.io/) - for multiple package.json
+
+#### Global installed CLIs
+
+* [yarn](https://yarnpkg.com/en/) - an npm alternative
+
 ### Compiler ranges
 
 |[@types/node](https://nodejs.org/en/download/releases)|[@angular/cli](https://github.com/angular/angular-cli/releases)|[@angular](https://github.com/angular/angular/releases)/compiler-cli|[typescript](https://github.com/Microsoft/TypeScript/releases)|Comments|

@@ -53,7 +53,7 @@ I sort the list with the ones that are most relevant for me on top and add the m
 |FileType|Plugin|Usage|Reason for uninstall|
 |---|---|---|---|
 |AngularJS|[Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en)|F12||
-||(Postman)[https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo]||Using real desktop app now|
+||[Postman](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo)||Using real desktop app now|
 
 # Node packages
 

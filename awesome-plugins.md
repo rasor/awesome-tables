@@ -40,6 +40,8 @@ I sort the list with the ones that are most relevant for me on top and add the m
 |json|[JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)||
 |links|[LinkTo](https://chrome.google.com/webstore/detail/linkto/goapcakmlfahhdehdkbejkcpoddbdikm)|Click on a link stored in GoogleDrive|
 |html|[WpSniffer](https://chrome.google.com/webstore/detail/wpsniffer-wordpress-theme/kihhefcbenhkjgjhchanjfhhflaojldn)|Button in Toolbar|
+||[Video Downloader professional](https://chrome.google.com/webstore/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil?hl=da)||
+||[vGet Extension (Video Downloader, DLNA)](https://chrome.google.com/webstore/detail/vget-extension-video-down/hniladkejehjfchadikcbjmgjaogciic?hl=da)||
 
 ## Chrome Apps
 

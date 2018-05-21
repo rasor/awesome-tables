@@ -9,8 +9,9 @@ I sort the list with the ones that are most relevant for me on top and add the m
 |---|---|---|
 |{}|[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)||
 |Markdown|[PasteURL](https://marketplace.visualstudio.com/items?itemName=kukushi.pasteurl)|ctrl+alt+p (paste after copy url in browser)|
-|Angular|[Angular v5 TypeScript Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)|Type `a-`|
 |Markdown|[Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)||
+|Angular|[Angular v5 TypeScript Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)|Type `a-`|
+|Vue|[Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)||
 |html/.ts/css|[angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)|In html: `F12` - goto def|
 |html|[Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)||
 |html|[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)||
@@ -21,5 +22,45 @@ I sort the list with the ones that are most relevant for me on top and add the m
 |FileType|Plugin|Usage|Reason for uninstall|
 |---|---|---|---|
 |Typescript|[Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)|RightClick red line to auto-fill|[Now included in VSCode](https://code.visualstudio.com/updates/v1_18#_auto-import-for-javascript-and-typescript)|
+
+# Sublime Text
+
+* [PREPARING WORKFLOW ON WINDOWS](https://rasor.wordpress.com/2016/01/23/mean-stack-preparing-workflow-on-windows/) - Browse to *The Sublime Text packages I use*
+* [Adding Snippets](https://rasor.wordpress.com/2016/02/07/cz8-sublimetext-add-snippets/)
+
+# Chrome
+
+|FileType|Plugin|Usage|
+|---|---|---|
+|html|[Allow-Control-Allow-Origin](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi)|Enable from Toolbar|
+|Angular2+|[Augury DevTools](https://augury.angular.io/)|F12|
+|Vue|[DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)|F12|
+|React|[DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)|F12|
+|url|[curlWget](https://chrome.google.com/webstore/detail/curlwget/jmocjfidanebdlinpbcdkcmgdifblncg/related)||
+|json|[JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)||
+|links|[LinkTo](https://chrome.google.com/webstore/detail/linkto/goapcakmlfahhdehdkbejkcpoddbdikm)|Click on a link stored in GoogleDrive|
+|html|[WpSniffer](https://chrome.google.com/webstore/detail/wpsniffer-wordpress-theme/kihhefcbenhkjgjhchanjfhhflaojldn)|Button in Toolbar|
+
+## Chrome Apps
+
+|FileType|Plugin|Usage|
+|---|---|---|
+|draw.io|[draw.io Desktop](https://chrome.google.com/webstore/detail/drawio-desktop/pebppomjfocnoigkeepgbmcifnnlndla?hl=en-GB)|Click on a file stored in GoogleDrive|
+||[Google Drawings](https://chrome.google.com/webstore/detail/google-drawings/mkaakpdehdafacodkgkpghoibnmamcme)||
+
+## UnInstalled
+
+|FileType|Plugin|Usage|Reason for uninstall|
+|---|---|---|---|
+|AngularJS|[Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en)|F12||
+||(Postman)[https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo]||Using real desktop app now|
+
+# Node packages
+
+* [Awesome CLIs](https://github.com/rasor/awesome-tables/blob/master/awesome-cli-js.md#javascript)
+
+# Ruby gems
+
+* [PREPARING WORKFLOW ON WINDOWS](https://rasor.wordpress.com/2016/01/23/mean-stack-preparing-workflow-on-windows/) - Browse to *Ruby packages*
 
 The End

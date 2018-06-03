@@ -1,8 +1,8 @@
 # awesome aws cloudformation
 
-|Img|Category|Template|JSON|Designer|
+|Img|Category|Template|JSON|Designer|Links|
 |---|---|---|---|---|
-|![]()|[Generator](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-using-cloudformer.html)|CloudFormer|[]()||
+|![template-designer-CloudFormer-EC2-t2.medium](assets/imgs/template-designer-CloudFormer-EC2-t2.medium.png)|[Generator](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-using-cloudformer.html)|CloudFormer|[CloudFormer-EC2-t2.medium](assets/config/template-CloudFormer-EC2-t2.medium.yaml)||[CloudFormation Templates](https://aws.amazon.com/cloudformation/aws-cloudformation-templates/)|
 
 # Links
 

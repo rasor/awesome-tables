@@ -32,4 +32,8 @@
 * [Map AWS services to Google Cloud Platform](https://cloud.google.com/free/docs/map-aws-google-cloud-platform)
 * [Map Microsoft Azure services to Google Cloud Platform products](https://cloud.google.com/free/docs/map-azure-google-cloud-platform)
 
+## IaS Infra as Service
+
+* [Comparing AWS Cloudformation and Azure Resource Manager](https://www.corestack.io/blog/comparing-aws-cloudformation-and-azure-resource-manager/)
+
 The End

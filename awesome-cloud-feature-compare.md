@@ -31,6 +31,7 @@
 
 * [Map AWS services to Google Cloud Platform](https://cloud.google.com/free/docs/map-aws-google-cloud-platform)
 * [Map Microsoft Azure services to Google Cloud Platform products](https://cloud.google.com/free/docs/map-azure-google-cloud-platform)
+* Compare: [Azure for AWS pros](https://www.microsoft.com/azureessentials/ebooks/Azure_for_AWS_Professionals_Quick_Start_Linked.pdf)
 
 ## IaS Infra as Service
 

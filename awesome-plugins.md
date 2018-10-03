@@ -27,6 +27,7 @@ I sort the list with the ones that are most relevant for me on top and add the m
 
 # Sublime Text
 
+* [Filter Lines](https://packagecontrol.io/packages/Filter%20Lines)
 * [PREPARING WORKFLOW ON WINDOWS](https://rasor.wordpress.com/2016/01/23/mean-stack-preparing-workflow-on-windows/) - Browse to *The Sublime Text packages I use*
 * [Adding Snippets](https://rasor.wordpress.com/2016/02/07/cz8-sublimetext-add-snippets/)
 

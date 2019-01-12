@@ -33,6 +33,7 @@
 |NativeScript|[tns](https://github.com/NativeScript/nativescript-cli#quick-start)|||Mobile Components|
 |Ionic|[ionic -v](https://ionicframework.com/docs/cli/commands.html)|[ionic.config.json](https://ionicframework.com/docs/cli/configuring.html#config-files)|[setx](https://ionicframework.com/docs/cli/configuring.html#environment-variables)|Components|
 |Cordova|[cordova -v](https://cordova.apache.org/docs/en/latest/reference/cordova-cli/index.html)|[config.xml](https://cordova.apache.org/docs/en/latest/config_ref/index.html)||Mobile plugins|
+|Truffle|[Truffle](https://github.com/trufflesuite/truffle#quick-usage)|||Ethereum DApp Framework|
 |Vue|[vue --version](https://github.com/vuejs/vue-cli/blob/dev/docs/cli.md#usage)|[vue.config.js](https://github.com/vuejs/vue-cli/blob/dev/docs/cli-service.md#using-the-binary) [~/.vuerc](https://github.com/vuejs/vue-cli/blob/dev/docs/cli.md#presets)|[setx](https://github.com/vuejs/vue-cli/blob/dev/docs/env.md#environment-variables-and-modes)|Client side Framework|
 |Angular|[ng -v](https://github.com/angular/angular-cli/wiki#additional-commands)|[.angular-cli.json](https://github.com/angular/angular-cli/wiki/angular-cli)||Client side Framework|
 |TypeScript|[tsc -v](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)|[tsconfig.json](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)||Language|
@@ -53,17 +54,17 @@
 
 #### [NVM](https://rasor.github.io/using-nvm-for-windows-and-yarn.html) sets of tools - avoiding [version conficts](https://github.com/rasor/awesome-tables/blob/master/awesome-angular-tables.md#compiler-ranges)
 
-With NVM you can change back in time (e.g. nvm use 6.9.0), when you need to work on old projects.  
-This list below mirrors some versions I have globally installed (e.g. npm install -g ionic) on my PC. You can use it for inspiration.  
+With NVM you can change back in time (e.g. `nvm use 6.9.0`), when you need to work on old projects.  
+This list below mirrors some versions I have globally installed (e.g. `npm install -g ionic`) on my PC. You can use it for inspiration.  
 
-|[@types/node (npm)](https://nodejs.org/en/download/releases) [x.x.0]|[@angular/cli](https://github.com/angular/angular-cli/releases)  ([@angular](https://github.com/angular/angular/releases)) [x.0.0]|[typescript](https://github.com/Microsoft/TypeScript/releases)|[ionic cli](https://www.npmjs.com/package/ionic) ([ionic](https://www.npmjs.com/package/ionic-angular))|[cordova](https://www.npmjs.com/package/cordova)|[vue-cli](https://github.com/vuejs/vue-cli/tags) ([vue](https://github.com/vuejs/vue/tags)) [x.x.0]|Comments|
-|---|---|---|---|---|---|---|
-|**node -v (npm -v)**|**ng -v**|**tsc -v**|**ionic -v**|**cordova -v**|**[vue --version](https://github.com/vuejs/vue-cli/tree/master)**||
-|6.9.0 Boron (3.10.8) [2016.10]|1.4.9 (4.2.4) [2017.03]|2.3.3||||
-|7.6.0 (4.1.2) [2017.02]|1.6.3 (5.1.0) [2017.11]|2.4.2|3.2.0 (3.9.2)|8.0.0|2.9.0 [2017.10]|v.7.6.0 on windows works with sass transpiler|
-|8.11.1 Carbon (5.6.0) [2017.11]|1.7.3 (5.2.0)|2.5.3|3.2.0 (3.9.2)||2.9.3 (2.5.16) [2018.02]||
-|10.1.0 (5.6.0) [2018.05]|6.0.0 (6.0.0) [2018.05]|2.7.2|(4.0.0)||3.0.0||
-|10.5.0 (6.1.0) [2018.0X]|6.2.2 (6.1.0) [2018.09]|2.9.2|4.1.2 (4.0.0.beta7)||||
+|[@types/node (npm)](https://nodejs.org/en/download/releases) [x.x.0]|[@angular/cli](https://github.com/angular/angular-cli/releases)  ([@angular](https://github.com/angular/angular/releases)) [x.0.0]|[typescript](https://github.com/Microsoft/TypeScript/releases)|[ionic cli](https://www.npmjs.com/package/ionic) ([ionic](https://www.npmjs.com/package/ionic-angular))|[cordova](https://www.npmjs.com/package/cordova)|[vue-cli](https://github.com/vuejs/vue-cli/tags) ([vue](https://github.com/vuejs/vue/tags)) [x.x.0]|Other cli's|Comments|
+|---|---|---|---|---|---|---|---|
+|**node -v (npm -v)**|**ng -v**|**tsc -v**|**ionic -v**|**cordova -v**|**[vue --version](https://github.com/vuejs/vue-cli/tree/master)**|||
+|6.9.0 Boron (3.10.8) [2016.10]|1.4.9 (4.2.4) [2017.03]|2.3.3|||||
+|7.6.0 (4.1.2) [2017.02]|1.6.3 (5.1.0) [2017.11]|2.4.2|3.2.0 (3.9.2)|8.0.0|2.9.0 [2017.10]||v.7.6.0 on windows works with sass transpiler|
+|8.11.1 Carbon (5.6.0) [2017.11]|1.7.3 (5.2.0)|2.5.3|3.2.0 (3.9.2)||2.9.3 (2.5.16) [2018.02]|||
+|10.1.0 (5.6.0) [2018.05]|6.0.0 (6.0.0) [2018.05]|2.7.2|(4.0.0)||3.0.0|||
+|10.5.0 (6.1.0) [2018.0X]|6.2.2 (6.1.0) [2018.09]|2.9.2|4.1.2 (4.0.0.beta7)|||truffle v5.0.1||
 
 ### .NET
 

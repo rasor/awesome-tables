@@ -33,7 +33,7 @@
 |NativeScript|[tns](https://github.com/NativeScript/nativescript-cli#quick-start)|||Mobile Components|
 |Ionic|[ionic -v](https://ionicframework.com/docs/cli/commands.html)|[ionic.config.json](https://ionicframework.com/docs/cli/configuring.html#config-files)|[setx](https://ionicframework.com/docs/cli/configuring.html#environment-variables)|Components|
 |Cordova|[cordova -v](https://cordova.apache.org/docs/en/latest/reference/cordova-cli/index.html)|[config.xml](https://cordova.apache.org/docs/en/latest/config_ref/index.html)||Mobile plugins|
-|Truffle|[truffle -v](https://truffleframework.com/docs/truffle/reference/truffle-commands)|[truffle-config.js](https://truffleframework.com/docs/truffle/reference/configuration)||Ethereum DApp Framework|
+|[Truffle](https://truffleframework.com/)|[truffle -v](https://truffleframework.com/docs/truffle/reference/truffle-commands)|[truffle-config.js](https://truffleframework.com/docs/truffle/reference/configuration)||Ethereum DApp Framework|
 |Vue|[vue --version](https://github.com/vuejs/vue-cli/blob/dev/docs/cli.md#usage)|[vue.config.js](https://github.com/vuejs/vue-cli/blob/dev/docs/cli-service.md#using-the-binary) [~/.vuerc](https://github.com/vuejs/vue-cli/blob/dev/docs/cli.md#presets)|[setx](https://github.com/vuejs/vue-cli/blob/dev/docs/env.md#environment-variables-and-modes)|Client side Framework|
 |Angular|[ng -v](https://github.com/angular/angular-cli/wiki#additional-commands)|[.angular-cli.json](https://github.com/angular/angular-cli/wiki/angular-cli)||Client side Framework|
 |TypeScript|[tsc -v](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)|[tsconfig.json](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)||Language|

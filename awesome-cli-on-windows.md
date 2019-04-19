@@ -15,9 +15,10 @@ Install [Chocolatey](https://chocolatey.org/install) from CMD with this command:
 choco -v
 # 0.10.11
 ```
+
 ## Tools
 
-With Chocolatey installed you can use the tool to install other tools.  
+With Chocolatey installed you can use `choco install <tool-to-install>` to install other tools.  
 
 |CLI|Cmd|Category|choco install|As Admin|
 |---|---|---|---|---|

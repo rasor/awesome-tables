@@ -16,6 +16,7 @@ I sort the list with the ones that are most relevant for me on top and add the m
 |html|[Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)||
 |html|[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)||
 ||[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)|Select Code - `Ctrl-Alt-N`|
+||[Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)|A bundle including Azure Explorer|
 |json, jsonc|[Azure Resource Manager Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)||
 ||[Visual Studio Team Services](https://marketplace.visualstudio.com/items?itemName=ms-vsts.team)|[QuickStart](https://stackoverflow.com/a/48070466/750989), Use it with [.tfignore](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2013/jj155786(v=vs.120)#tfignore-file-example)|
 |sol|[solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)||

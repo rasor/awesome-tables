@@ -13,7 +13,7 @@ Registries
 * Pi: Pip - Python
 
 |Provider|Issues|Repos|CI|CD|Registries|Cloud|
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |[Azure DevOps](https://dev.azure.com/rasor/)|Boards|Repos|Builds|Releases||[Azure](https://portal.azure.com/#home)|
 |[Atlassian](https://start.atlassian.com/)|Jira|[Bitbucket](https://bitbucket.org/dashboard/overview)||||n|
 |[Docker Hub](https://hub.docker.com/)|||||D||

@@ -20,11 +20,11 @@ Registries
 |[Github](https://github.com/rasor/)|Issues|Repos||||n|
 |[Gitlab](https://gitlab.com/)|y|y|y|y|||
 |[Heroku](https://dashboard.heroku.com/apps)|n|y|y|y||Aws|
-|[MyGet](https://www.myget.org/)||||B,C,J,N,Ph,Pi||
-|[Npm](https://www.npmjs.com/)||||N||
-|[NuGet](https://www.nuget.org/)||||C||
-|[PyPi](https://pypi.org/)||||Pi||
-|[RubyGems.org](https://rubygems.org/)||||G||
-|||||||
+|[MyGet](https://www.myget.org/)|||||B,C,J,N,Ph,Pi||
+|[Npm](https://www.npmjs.com/)|||||N||
+|[NuGet](https://www.nuget.org/)|||||C||
+|[PyPi](https://pypi.org/)|||||Pi||
+|[RubyGems.org](https://rubygems.org/)|||||G||
+||||||||
 
 The End

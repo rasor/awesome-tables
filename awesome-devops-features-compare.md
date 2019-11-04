@@ -2,16 +2,6 @@
 
 ### (My) DevOps providers
 
-Registries
-* D: Docker images
-* B: Bower - JavaScript
-* C: Nuget - C#
-* G: Gems - Ruby
-* J: Maven, Graddle - Java
-* N: Npm - JavaScript
-* Ph: Php Composer
-* Pi: Pip - Python
-
 |Provider|Issues|Repos|CI|CD|Registries|Cloud|
 |---|---|---|---|---|---|---|
 |[Azure DevOps](https://dev.azure.com/rasor/)|Boards|Repos|Builds|Releases||[Azure](https://portal.azure.com/#home)|
@@ -26,5 +16,19 @@ Registries
 |[PyPi](https://pypi.org/)|||||Pi||
 |[RubyGems.org](https://rubygems.org/)|||||G||
 ||||||||
+
+Where Registries =  
+* D: Docker images
+* B: Bower - JavaScript
+* C: Nuget - C#
+* G: Gems - Ruby
+* J: Maven, Graddle - Java
+* N: Npm - JavaScript
+* Ph: Php Composer
+* Pi: Pip - Python
+
+#### Using SSH for Repos
+
+Guide: [Git with SSH](https://github.com/rasor/rasor.github.io/blob/pelican/content/2019/LinuxPoposInstall.md#git)
 
 The End

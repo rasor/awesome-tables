@@ -4,7 +4,7 @@
 
 |CLI|Cmd|Category|
 |---|---|---|
-|Firebase|[firebase](https://firebase.google.com/docs/cli/?authuser=0#command_reference)|DB|
+|Firebase|[firebase --version](https://firebase.google.com/docs/cli/?authuser=0#command_reference)|DB|
 
 ### Platform, CI/CD
 

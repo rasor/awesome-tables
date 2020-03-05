@@ -29,6 +29,7 @@ I sort the list with the ones that are most relevant for me on top and add the m
 |sol|[solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)||
 ||[ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)||
 |jsx, tsx|[VSCode React Refactor](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor)||
+|jsx, tsx|[glean](https://marketplace.visualstudio.com/items?itemName=wix.glean)|React Class <-> Component|
 
 More Plugins:
 * [The Ultimate VSCode Setup for Front End/JS/React](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)

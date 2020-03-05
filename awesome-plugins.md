@@ -32,6 +32,7 @@ I sort the list with the ones that are most relevant for me on top and add the m
 
 More:
 * [The Ultimate VSCode Setup for Front End/JS/React](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
+* [10 Must-have VS Code Extensions for JavaScript Developers](https://www.sitepoint.com/vs-code-extensions-javascript-developers)
 
 ## UnInstalled
 

@@ -15,6 +15,7 @@ I sort the list with the ones that are most relevant for me on top and add the m
 |html/ts/css|[angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)|In html: `F12` - goto def|
 |html|[Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)||
 |html|[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)||
+|html|[htmltagwrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap)|select html - `Alt-W`|
 ||[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)|Select Code - `Ctrl-Alt-N`|
 ||[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)||
 ||[Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)|A bundle including Azure Explorer|

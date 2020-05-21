@@ -21,6 +21,7 @@ I sort the list with the ones that are most relevant for me on top and add the m
 ||[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)||
 ||[Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)|A bundle including Azure Explorer|
 |json, jsonc|[Azure Resource Manager Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)||
+|json|[ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview#review-details)||
 |ps1|[PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)|Replaces ISE - Console: `Ctrl-Alt-P` pow console|
 |cs|[C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)|PreReq: [.NET Core SDK for Visual Studio Code](https://dotnet.microsoft.com/download/dotnet-core/sdk-for-vs-code)|
 ||[Visual Studio Team Services](https://marketplace.visualstudio.com/items?itemName=ms-vsts.team)|[QuickStart](https://stackoverflow.com/a/48070466/750989), Use it with [.tfignore](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2013/jj155786(v=vs.120)#tfignore-file-example)|

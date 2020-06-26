@@ -22,6 +22,7 @@
 
 |CLI|Cmd|Config|Environment|Category|
 |---|---|---|---|---|
+|Cypress|[cypress](https://docs.cypress.io/guides/guides/command-line.html#Commands)|[cypress.json](https://docs.cypress.io/guides/references/configuration.html#Options)|[setx](https://docs.cypress.io/guides/guides/environment-variables.html#Setting)|Test Runner|
 |Protractor|[protractor --version](http://www.protractortest.org/#/)|[config.ts](http://www.protractortest.org/#/api-overview#config-file)||Test Runner|
 |Ava|[ava](https://github.com/avajs/ava#cli)|[package.json](https://github.com/avajs/ava#configuration)||Test Runner|
 |Karma|[karma](https://karma-runner.github.io/1.0/intro/installation.html)|[karma.conf.*](https://karma-runner.github.io/1.0/config/configuration-file.html)||Test Runner|
@@ -31,10 +32,15 @@
 |Mocha|[test](http://mochajs.org/#getting-started)|[package.json](http://mochajs.org/#getting-started)||Test Spec|
 |Electron|[electron-cli](https://www.npmjs.com/package/electron-cli)|||Desktop Components|
 |NativeScript|[tns](https://github.com/NativeScript/nativescript-cli#quick-start)|||Mobile Components|
+|[CRL](https://www.npmjs.com/package/create-react-library)||||React Components|
+|[Stencil](https://stenciljs.com/docs/getting-started)||||WebComponents|
 |Ionic|[ionic -v](https://ionicframework.com/docs/cli/commands.html)|[ionic.config.json](https://ionicframework.com/docs/cli/configuring.html#config-files)|[setx](https://ionicframework.com/docs/cli/configuring.html#environment-variables)|Components|
 |Cordova|[cordova -v](https://cordova.apache.org/docs/en/latest/reference/cordova-cli/index.html)|[config.xml](https://cordova.apache.org/docs/en/latest/config_ref/index.html)||Mobile plugins|
 |[Truffle](https://truffleframework.com/)|[truffle -v](https://truffleframework.com/docs/truffle/reference/truffle-commands)|[truffle-config.js](https://truffleframework.com/docs/truffle/reference/configuration)||Ethereum DApp Framework|
 |Vue|[vue --version](https://github.com/vuejs/vue-cli/blob/dev/docs/cli.md#usage)|[vue.config.js](https://github.com/vuejs/vue-cli/blob/dev/docs/cli-service.md#using-the-binary) [~/.vuerc](https://github.com/vuejs/vue-cli/blob/dev/docs/cli.md#presets)|[setx](https://github.com/vuejs/vue-cli/blob/dev/docs/env.md#environment-variables-and-modes)|Client side Framework|
+|[Next](https://nextjs.org/docs/getting-started)|[next](https://nextjs.org/docs/api-reference/cli)|[next.config.js](https://nextjs.org/docs/api-reference/next.config.js/introduction)|[setx](https://nextjs.org/docs/basic-features/environment-variables)|Client + server side Framework|
+|Gatsby|[gatsby -v](https://www.gatsbyjs.org/docs/gatsby-cli)|||Static site builder|
+|[CRA](https://create-react-app.dev/docs/getting-started)||||Client side Framework|
 |Angular|[ng -v](https://github.com/angular/angular-cli/wiki#additional-commands)|[.angular-cli.json](https://github.com/angular/angular-cli/wiki/angular-cli)||Client side Framework|
 |[Babel](https://babeljs.io/)||[.babelrc](https://babeljs.io/docs/en/config-files)||Js compiler|
 |TypeScript|[tsc -v](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)|[tsconfig.json](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)||Js compiler|

@@ -5,6 +5,8 @@ I sort the list with the ones that are most relevant for me on top and add the m
 
 # Visual Studio Code
 
+## Frontend
+
 |FileType|Plugin|Usage|
 |---|---|---|
 |{}|[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)||
@@ -17,21 +19,39 @@ I sort the list with the ones that are most relevant for me on top and add the m
 |html|[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)||
 |html|[htmltagwrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap)|select html - `Alt-W`|
 |env|[DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)||
+||[ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)||
+|jsx, tsx|[VSCode React Refactor](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor)||
+|jsx, tsx|[glean](https://marketplace.visualstudio.com/items?itemName=wix.glean)|React Class <-> Component|
+
+## Backend
+
+|FileType|Plugin|Usage|
+|---|---|---|
 ||[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)|Select Code - `Ctrl-Alt-N`|
+|cs|[C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)|PreReq: [.NET Core SDK for Visual Studio Code](https://dotnet.microsoft.com/download/dotnet-core/sdk-for-vs-code)|
+|sol|[solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)||
+||[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)||
+|sql|[SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)||
+
+## Terminal / Cloud
+
+|FileType|Plugin|Usage|
+|---|---|---|
+||[Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)|A bundle including Azure Explorer|
+|json, jsonc|[Azure Resource Manager Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)||
+|json|[ARM Te||[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)||
+mplate Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview#review-details)||
+|ps1|[PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)|Replaces ISE - Console: `Ctrl-Alt-P` pow console|
 ||[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)||
 ||[Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)|A bundle including Azure Explorer|
 |json, jsonc|[Azure Resource Manager Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)||
 |json|[ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview#review-details)||
 |ps1|[PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)|Replaces ISE - Console: `Ctrl-Alt-P` pow console|
-|cs|[C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)|PreReq: [.NET Core SDK for Visual Studio Code](https://dotnet.microsoft.com/download/dotnet-core/sdk-for-vs-code)|
 ||[Visual Studio Team Services](https://marketplace.visualstudio.com/items?itemName=ms-vsts.team)|[QuickStart](https://stackoverflow.com/a/48070466/750989), Use it with [.tfignore](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2013/jj155786(v=vs.120)#tfignore-file-example)|
-|sql|[SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)||
-||[Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)||
-|sol|[solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)||
-||[ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)||
-|jsx, tsx|[VSCode React Refactor](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor)||
-|jsx, tsx|[glean](https://marketplace.visualstudio.com/items?itemName=wix.glean)|React Class <-> Component|
 ||[Microsoft Teams Toolkit](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)||
+||[Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)||
+
+## Other
 
 More Plugins:
 * [The Ultimate VSCode Setup for Front End/JS/React](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)

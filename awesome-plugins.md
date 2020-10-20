@@ -5,7 +5,7 @@ I sort the list with the ones that are most relevant for me on top and add the m
 
 # Visual Studio Code
 
-## Frontend
+### Frontend
 
 |FileType|Plugin|Usage|
 |---|---|---|
@@ -23,25 +23,21 @@ I sort the list with the ones that are most relevant for me on top and add the m
 |jsx, tsx|[VSCode React Refactor](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor)||
 |jsx, tsx|[glean](https://marketplace.visualstudio.com/items?itemName=wix.glean)|React Class <-> Component|
 
-## Backend
+### Backend
 
 |FileType|Plugin|Usage|
 |---|---|---|
 ||[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)|Select Code - `Ctrl-Alt-N`|
 |cs|[C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)|PreReq: [.NET Core SDK for Visual Studio Code](https://dotnet.microsoft.com/download/dotnet-core/sdk-for-vs-code)|
+|erl|[erlang](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang)||
 |sol|[solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)||
 ||[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)||
 |sql|[SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)||
 
-## Terminal / Cloud
+### Terminal / Cloud
 
 |FileType|Plugin|Usage|
 |---|---|---|
-||[Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)|A bundle including Azure Explorer|
-|json, jsonc|[Azure Resource Manager Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)||
-|json|[ARM Te||[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)||
-mplate Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview#review-details)||
-|ps1|[PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)|Replaces ISE - Console: `Ctrl-Alt-P` pow console|
 ||[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)||
 ||[Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)|A bundle including Azure Explorer|
 |json, jsonc|[Azure Resource Manager Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)||
@@ -51,7 +47,7 @@ mplate Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.ar
 ||[Microsoft Teams Toolkit](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)||
 ||[Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)||
 
-## Other
+### Other
 
 More Plugins:
 * [The Ultimate VSCode Setup for Front End/JS/React](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
@@ -64,7 +60,7 @@ Using VSCode:
 * [C# in Visual Studio Code](https://code.visualstudio.com/docs/languages/csharp)
 ||---|---|
 
-## UnInstalled
+### UnInstalled
 
 |FileType|Plugin|Usage|Reason for uninstall|
 |---|---|---|---|

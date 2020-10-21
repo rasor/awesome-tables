@@ -10,6 +10,7 @@ I sort the list with the ones that are most relevant for me on top and add the m
 |FileType|Plugin|Usage|
 |---|---|---|
 |{}|[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)||
+|js,ts,html,md,yml,json,xml,etc|[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)||
 |Markdown|[PasteURL](https://marketplace.visualstudio.com/items?itemName=kukushi.pasteurl)|ctrl+alt+p (paste after copy url in browser)|
 |Markdown|[Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)||
 |Angular|[Angular v5 TypeScript Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)|Type `a-`|

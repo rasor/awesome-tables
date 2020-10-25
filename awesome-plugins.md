@@ -51,7 +51,7 @@ More Plugins:
 ||[Visual Studio Team Services](https://marketplace.visualstudio.com/items?itemName=ms-vsts.team)|[QuickStart](https://stackoverflow.com/a/48070466/750989), Use it with [.tfignore](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2013/jj155786(v=vs.120)#tfignore-file-example)|
 ||[Microsoft Teams Toolkit](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)||
 ||[Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)||
-||[Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)||
+|Dockerfile, docker-compose.yml|[Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)||
 |Dockerfile|[Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)|Develop inside container|
 ||[Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)|[HowTo Attach](https://code.visualstudio.com/docs/remote/attach-container#_attach-to-a-container-in-a-kubernetes-cluster)|
 ||[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)||

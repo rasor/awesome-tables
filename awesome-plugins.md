@@ -46,9 +46,10 @@ I sort the list with the ones that are most relevant for me on top and add the m
 |ps1|[PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)|Replaces ISE - Console: `Ctrl-Alt-P` pow console|
 ||[Visual Studio Team Services](https://marketplace.visualstudio.com/items?itemName=ms-vsts.team)|[QuickStart](https://stackoverflow.com/a/48070466/750989), Use it with [.tfignore](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2013/jj155786(v=vs.120)#tfignore-file-example)|
 ||[Microsoft Teams Toolkit](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)||
-||[Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)||
-||[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)|---|
 ||[Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)|---|
+||[Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)||
+||[Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)||
+||[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)|---|
 
 ### Other
 

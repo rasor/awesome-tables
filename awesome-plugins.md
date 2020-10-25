@@ -24,6 +24,10 @@ I sort the list with the ones that are most relevant for me on top and add the m
 |jsx, tsx|[VSCode React Refactor](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor)||
 |jsx, tsx|[glean](https://marketplace.visualstudio.com/items?itemName=wix.glean)|React Class <-> Component|
 
+More Plugins:
+* [The Ultimate VSCode Setup for Front End/JS/React](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
+* [10 Must-have VS Code Extensions for JavaScript Developers](https://www.sitepoint.com/vs-code-extensions-javascript-developers)
+
 ### Backend
 
 |FileType|Plugin|Usage|
@@ -49,21 +53,16 @@ I sort the list with the ones that are most relevant for me on top and add the m
 ||[Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)||
 ||[Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)||
 |Dockerfile|[Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)|Develop inside container|
-||[Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)||
+||[Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)|[HowTo Attach](https://code.visualstudio.com/docs/remote/attach-container#_attach-to-a-container-in-a-kubernetes-cluster)|
 ||[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)||
 
 ### Other
-
-More Plugins:
-* [The Ultimate VSCode Setup for Front End/JS/React](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
-* [10 Must-have VS Code Extensions for JavaScript Developers](https://www.sitepoint.com/vs-code-extensions-javascript-developers)
 
 Using VSCode:
 * [React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 * [TypeScript in Visual Studio Code](https://code.visualstudio.com/docs/languages/typescript)
 * [.NET Core in Visual Studio Code](https://code.visualstudio.com/docs/languages/dotnet)
 * [C# in Visual Studio Code](https://code.visualstudio.com/docs/languages/csharp)
-||---|---|
 
 ### UnInstalled
 

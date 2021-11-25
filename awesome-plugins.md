@@ -35,6 +35,7 @@ More Plugins:
 ||[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)|Select Code - `Ctrl-Alt-N`|
 |cs|[C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)|PreReq: [.NET Core SDK for Visual Studio Code](https://dotnet.microsoft.com/download/dotnet-core/sdk-for-vs-code)|
 |erl|[erlang](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang)||
+|go|[golang](https://marketplace.visualstudio.com/items?itemName=golang.Go)||
 |sol|[solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)||
 ||[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)||
 |sql|[SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)||
